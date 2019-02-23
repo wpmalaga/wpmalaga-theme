@@ -5,3 +5,9 @@ Version: 1.0
 Description: Un tema de wordpress hecho por la comunidad de wordpress de Malaga
 */
 
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
